@@ -1,0 +1,7 @@
+# [Gewusst wie: Implementieren benutzerdefinierter Ereignisaccessoren (C#-Programmierhandbuch)](how-to-implement-custom-event-accessors.md)
+# [Ereignisse (C#-Programmierhandbuch)](index.md)
+# [Gewusst wie: Verwenden eines Wörterbuchs zum Speichern von Ereignisinstanzen (C#-Programmierhandbuch)](how-to-use-a-dictionary-to-store-event-instances.md)
+# [Gewusst wie: Veröffentlichen von Ereignissen, die den .NET Framework-Richtlinien entsprechen (C#-Programmierhandbuch)](how-to-publish-events-that-conform-to-net-framework-guidelines.md)
+# [Gewusst wie: Implementieren von Schnittstellenereignissen (C#-Programmierhandbuch)](how-to-implement-interface-events.md)
+# [Gewusst wie: Abonnieren von Ereignissen und Kündigen von Ereignisabonnements (C#-Programmierhandbuch)](how-to-subscribe-to-and-unsubscribe-from-events.md)
+# [Gewusst wie: Auslösen von Basisklassenereignissen in abgeleiteten Klassen (C#-Programmierhandbuch)](how-to-raise-base-class-events-in-derived-classes.md)
