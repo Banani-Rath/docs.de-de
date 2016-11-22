@@ -1,0 +1,5 @@
+# [Delegaten (C#-Programmierhandbuch)](index.md)
+## [Verwenden von Delegaten (C#-Programmierhandbuch)](using-delegates.md)
+## [Delegaten mit benannten im Vergleich zu anonymen Methoden (C#-Programmierhandbuch)](delegates-with-named-vs-anonymous-methods.md)
+## [Gewusst wie: Kombinieren von Delegaten (Multicastdelegaten) (C#-Programmierhandbuch)](how-to-combine-delegates-multicast-delegates.md)
+## [Gewusst wie: Deklarieren, Instanziieren und Verwenden von Delegaten (C#-Programmierhandbuch)](how-to-declare-instantiate-and-use-a-delegate.md)
